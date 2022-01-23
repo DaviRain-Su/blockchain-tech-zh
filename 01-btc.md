@@ -1,12 +1,19 @@
-# 区块链技术与应用📒
+# 区块链技术与应用
 
-blockchain-tech for pecking university xiaozhen notebook 
+肖臻 http://zhenxiao.com
 
-笔记包含肖臻老师的所有的讲课录音笔记、以及自己的理解笔记📒
+## 课程基本信息
+- 假设已经在本科阶段学过基本的数据结构和算法，掌握编程的基本技能 
+    - 数组、链表、二叉树、哈希函数
+- 参考资料
+    - BitCoin and Cryptocurrency Technologies A Comprehensive Introduction 
+    - 以太坊白皮书、黄皮书、源代码
+    - Solidity 文档
+- 公开课形式： 全程录像
 
-## [课程大纲](./01-btc.md)
+## 课程大纲
 - 比特币
-    - [密码学基础](./02-btc.md)
+    - 密码学基础
     - 比特币的数据结构
     - 共识协议和系统实现
     - 挖矿算法和难度调整
